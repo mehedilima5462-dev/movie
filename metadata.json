@@ -1,0 +1,6 @@
+{
+  "name": "MovieHub BD",
+  "description": "Premium movie discovery and authorized streaming platform featuring Bangla, Hindi, English, and South Indian cinema with high quality playback details, ratings, and comprehensive filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
